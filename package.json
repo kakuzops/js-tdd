@@ -1,0 +1,24 @@
+{
+  "name": "js-com-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonard9/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "curso"
+  ],
+  "author": "Leonardo Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonard9/js-tdd/issues"
+  },
+  "homepage": "https://github.com/leonard9/js-tdd#readme"
+}
