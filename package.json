@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/leonard9/js-tdd/issues"
   },
-  "homepage": "https://github.com/leonard9/js-tdd#readme"
+  "homepage": "https://github.com/leonard9/js-tdd#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
 }
